@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  orderDate: MyText
+  customerId: 1
+  totalAmount: 1
+
+two:
+  orderDate: MyText
+  customerId: 1
+  totalAmount: 1
